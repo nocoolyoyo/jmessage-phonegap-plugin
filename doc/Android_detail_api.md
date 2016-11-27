@@ -685,7 +685,7 @@
 
 #### 接口定义
 
-    window.JMessage.sendInvitationReques(targetUsername, targetUserAppkey, reason, successCallback, errorCallback)
+    window.JMessage.sendInvitationRequest(targetUsername, targetUserAppkey, reason, successCallback, errorCallback)
 
 #### 参数说明
 - targetUsername：String，目标用户的用户名。
